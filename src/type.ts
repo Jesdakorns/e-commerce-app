@@ -10,4 +10,3 @@ export type ProfileProps = NativeStackScreenProps<
   RootStackParamList,
   'Profile'
 >;
-export type HomeProps1 = NativeStackScreenProps<RootStackParamList, 'Home'>;
